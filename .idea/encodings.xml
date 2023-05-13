@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/edo-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edo-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edo-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edo-dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edo-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edo-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edo-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edo-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edo-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edo-web/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
