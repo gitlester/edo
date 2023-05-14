@@ -25,6 +25,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="edo-common" options="-parameters" />
       <module name="edo-dao" options="-parameters" />
       <module name="edo-model" options="-parameters" />
       <module name="edo-service" options="-parameters" />
