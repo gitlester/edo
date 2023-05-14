@@ -1,5 +1,6 @@
 package com.itmy.edo.web.controller.sys;
 
+import com.itmy.edo.common.response.Result;
 import com.itmy.edo.model.entity.SysRole;
 import com.itmy.edo.service.SysRoleService;
 import io.swagger.annotations.Api;
@@ -20,14 +21,15 @@ public class SysRoleController {
 
     @ApiOperation(value = "获取全部角色列表")
     @GetMapping("/findAll")
-    public List<SysRole> findAll() {
+    public Result<List<SysRole>> findAll() {
         List<SysRole> roleList = sysRoleService.list();
-        return roleList;
+        return Result.ok(roleList);
     }
 
     @ApiOperation(value = "逻辑删除角色")
     @DeleteMapping("remove/{id}")
-    public Boolean del(@PathVariable("id") Long id){
-        return sysRoleService.removeById(id);
+    public Result<Boolean> del(@PathVariable("id") Long id){
+         sysRoleService.removeById(id);
+         return Result.ok();
     }
 }
