@@ -3,3 +3,6 @@ spring:
     name: edo
   profiles:
     active: dev
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher

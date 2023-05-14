@@ -21,7 +21,7 @@ import java.util.List;
 
 @SpringBootTest
 @ContextConfiguration
-public class WebApplicationTest {
+public class ApplicationTest {
 
 //    @Autowired
 //    PasswordEncoder passwordEncoder;
