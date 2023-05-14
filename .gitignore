@@ -24,4 +24,10 @@ hs_err_pid*
 replay_pid*
 .idea
 edo-web/target
+edo-web/edo-web.iml
 edo-model/target
+edo-model/edo-model.iml
+edo-common/edo-common.iml
+edo-dao/edo-dao.iml
+edo-service/edo-service.iml
+edo.iml
