@@ -57,7 +57,6 @@
     <orderEntry type="library" name="Maven: io.springfox:springfox-bean-validators:2.10.5" level="project" />
     <orderEntry type="library" name="Maven: io.springfox:springfox-spring-webmvc:2.10.5" level="project" />
     <orderEntry type="library" name="Maven: com.github.xiaoymin:knife4j-spring-ui:2.0.8" level="project" />
-    <orderEntry type="module" module-name="edo-dao" />
     <orderEntry type="library" name="Maven: com.alibaba:druid:1.2.14" level="project" />
     <orderEntry type="library" name="Maven: com.baomidou:mybatis-plus-boot-starter:3.5.1" level="project" />
     <orderEntry type="library" name="Maven: com.baomidou:mybatis-plus:3.5.1" level="project" />
@@ -73,6 +72,7 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-jdbc:5.3.27" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.3.27" level="project" />
     <orderEntry type="library" name="Maven: com.baomidou:mybatis-plus-generator:3.5.2" level="project" />
+    <orderEntry type="module" module-name="edo-dao" />
     <orderEntry type="library" name="Maven: com.aliyun:aliyun-java-sdk-core:4.0.6" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.5.14" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.16" level="project" />
