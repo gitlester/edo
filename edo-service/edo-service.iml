@@ -70,8 +70,14 @@
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-jdbc:2.7.11" level="project" />
     <orderEntry type="library" name="Maven: com.zaxxer:HikariCP:4.0.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-jdbc:5.3.27" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.3.27" level="project" />
     <orderEntry type="library" name="Maven: com.baomidou:mybatis-plus-generator:3.5.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-redis:2.7.11" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-keyvalue:2.7.11" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-commons:2.7.11" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.3.27" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-oxm:5.3.27" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.27" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context-support:5.3.27" level="project" />
     <orderEntry type="module" module-name="edo-dao" />
     <orderEntry type="library" name="Maven: com.aliyun:aliyun-java-sdk-core:4.0.6" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.5.14" level="project" />
@@ -112,10 +118,6 @@
     <orderEntry type="library" name="Maven: com.aliyun:openapiutil:0.1.14" level="project" />
     <orderEntry type="library" name="Maven: org.bouncycastle:bcpkix-jdk15on:1.65" level="project" />
     <orderEntry type="library" name="Maven: com.aliyun:tea:1.2.7" level="project" />
-    <orderEntry type="library" name="Maven: com.squareup.okhttp3:okhttp:4.9.3" level="project" />
-    <orderEntry type="library" name="Maven: com.squareup.okio:okio:2.8.0" level="project" />
-    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.21" level="project" />
-    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.6.21" level="project" />
     <orderEntry type="library" name="Maven: com.aliyun:alibabacloud-gateway-spi:0.0.1" level="project" />
     <orderEntry type="library" name="Maven: com.aliyun:alibabacloud-iot20180120:1.0.4" level="project" />
     <orderEntry type="library" name="Maven: com.aliyun:aliyun-java-sdk-iot:7.47.0" level="project" />
@@ -125,6 +127,18 @@
     <orderEntry type="library" name="Maven: org.ow2.asm:asm-analysis:7.3.1" level="project" />
     <orderEntry type="library" name="Maven: org.ow2.asm:asm-tree:7.3.1" level="project" />
     <orderEntry type="library" name="Maven: org.ow2.asm:asm-util:7.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.influxdb:influxdb-java:2.14" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.retrofit2:retrofit:2.4.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.retrofit2:converter-moshi:2.4.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.moshi:moshi:1.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.msgpack:msgpack-core:0.8.16" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okhttp3:okhttp:4.9.3" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okio:okio:2.8.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.21" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.6.21" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okhttp3:logging-interceptor:4.9.3" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.21" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.21" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-web:2.7.11" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:2.7.11" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.7.11" level="project" />
@@ -147,7 +161,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-web:5.3.27" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.27" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:5.3.27" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.27" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:5.3.27" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.3.27" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.mysql:mysql-connector-j:8.0.32" level="project" />
