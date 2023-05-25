@@ -6,8 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/edo-common/edo-common.iml" filepath="$PROJECT_DIR$/edo-common/edo-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/edo-dao/edo-dao.iml" filepath="$PROJECT_DIR$/edo-dao/edo-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/edo-model/edo-model.iml" filepath="$PROJECT_DIR$/edo-model/edo-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edo-pay/edo-pay.iml" filepath="$PROJECT_DIR$/edo-pay/edo-pay.iml" />
       <module fileurl="file://$PROJECT_DIR$/edo-service/edo-service.iml" filepath="$PROJECT_DIR$/edo-service/edo-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/edo-web/edo-web.iml" filepath="$PROJECT_DIR$/edo-web/edo-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edo-workflow/edo-workflow.iml" filepath="$PROJECT_DIR$/edo-workflow/edo-workflow.iml" />
     </modules>
   </component>
 </project>

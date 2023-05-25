@@ -7,9 +7,11 @@
     <file url="file://$PROJECT_DIR$/edo-dao/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/edo-model/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/edo-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edo-pay/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/edo-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/edo-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/edo-web/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/edo-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edo-workflow/src/main/java" charset="UTF-8" />
   </component>
 </project>
