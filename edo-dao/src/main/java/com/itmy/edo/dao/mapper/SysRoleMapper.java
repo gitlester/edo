@@ -17,7 +17,6 @@ import org.apache.ibatis.annotations.Param;
  * @author leo
  * @since 2022-10-17
  */
-@Mapper
 public interface SysRoleMapper extends BaseMapper<SysRole> {
 
     SysRole selectSysRole(@Param("userId") int userId);

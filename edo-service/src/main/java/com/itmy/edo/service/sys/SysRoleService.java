@@ -1,4 +1,4 @@
-package com.itmy.edo.service;
+package com.itmy.edo.service.sys;
 
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.itmy.edo.model.entity.SysRole;
