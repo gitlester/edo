@@ -1,5 +1,5 @@
 server:
-  port: 8800
+  port: 8801
 mybatis-plus:
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl # 查看日志
@@ -14,3 +14,8 @@ spring:
     host: 127.0.0.1
     port: 6379
     password:
+encrypt:
+  body:
+    aes-key: 12345678 #AES加密秘钥
+    des-key: 12345678 #DES加密秘钥
+    # more...

@@ -1,5 +1,6 @@
 package com.itmy.edo.web.controller.biz;
 
+import cn.licoy.encryptbody.annotation.encrypt.EncryptBody;
 import com.itmy.edo.common.response.Result;
 import com.itmy.edo.model.entity.biz.Brand;
 import com.itmy.edo.service.biz.brand.BrandService;
@@ -10,6 +11,7 @@ import org.springframework.web.bind.annotation.*;
 import javax.annotation.Resource;
 import java.util.List;
 
+@EncryptBody
 @Api(tags = "品牌管理")
 @RestController
 @RequestMapping("/admin/biz/brand")

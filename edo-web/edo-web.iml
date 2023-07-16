@@ -196,6 +196,10 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.3.27" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-oxm:5.3.27" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context-support:5.3.27" level="project" />
+    <orderEntry type="module" module-name="edo-encrypt" />
+    <orderEntry type="library" name="Maven: cn.licoy:encrypt-body-spring-boot-starter:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: cn.hutool:hutool-crypto:5.7.22" level="project" />
+    <orderEntry type="library" name="Maven: cn.hutool:hutool-core:5.7.22" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.mysql:mysql-connector-j:8.0.32" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.postgresql:postgresql:42.3.8" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.checkerframework:checker-qual:3.5.0" level="project" />
