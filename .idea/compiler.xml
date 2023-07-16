@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="edo-encrypt" />
         <module name="edo-service" />
         <module name="edo-common" />
         <module name="edo-pay" />
@@ -20,6 +21,7 @@
       <module name="edo" target="17" />
       <module name="edo-common" target="17" />
       <module name="edo-dao" target="17" />
+      <module name="edo-encrypt" target="17" />
       <module name="edo-model" target="17" />
       <module name="edo-pay" target="17" />
       <module name="edo-service" target="17" />
@@ -31,6 +33,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="edo-common" options="-parameters" />
       <module name="edo-dao" options="-parameters" />
+      <module name="edo-encrypt" options="-parameters" />
       <module name="edo-model" options="-parameters" />
       <module name="edo-pay" options="-parameters" />
       <module name="edo-service" options="-parameters" />

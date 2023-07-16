@@ -11,6 +11,7 @@
         <module>edo-web</module>
         <module>edo-pay</module>
         <module>edo-workflow</module>
+        <module>edo-encrypt</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
