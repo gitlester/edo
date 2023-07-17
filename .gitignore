@@ -22,7 +22,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
-.idea/*
+.idea
 edo-web/target
 edo-web/edo-web.iml
 edo-model/target
@@ -31,4 +31,5 @@ edo-common/edo-common.iml
 edo-dao/edo-dao.iml
 edo-service/edo-service.iml
 edo-encrypt/edo-encrypt.iml
+limiting-spring-boot-starter/limiting-spring-boot-starter.iml
 edo.iml

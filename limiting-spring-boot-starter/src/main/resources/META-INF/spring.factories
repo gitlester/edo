@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.itmy.edo.aop.SemaphoreLimiterAop,\
+  com.itmy.edo..aop.GuavaLimiterAop,\
+  com.itmy.edo.aop.SemaphoreLimiterAop
