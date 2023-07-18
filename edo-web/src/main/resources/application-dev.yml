@@ -22,6 +22,6 @@ encrypt:
 
 oss:
   endpoint: oss-cn-beijing.aliyuncs.com
-  accessKey: LTAI5tNmNhbNQCCgnaSq6ynd
-  secretKey: 9e433hhMOBM6rFKnzrrFHzQRdSmYQR
-  bucketname: one-piece-prefer
+  accessKey:
+  secretKey:
+  bucketname:
