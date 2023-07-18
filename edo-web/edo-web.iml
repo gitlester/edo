@@ -198,7 +198,6 @@
     <orderEntry type="module" module-name="edo-encrypt" />
     <orderEntry type="library" name="Maven: cn.licoy:encrypt-body-spring-boot-starter:1.2.3" level="project" />
     <orderEntry type="library" name="Maven: cn.hutool:hutool-crypto:5.7.22" level="project" />
-    <orderEntry type="library" name="Maven: cn.hutool:hutool-core:5.7.22" level="project" />
     <orderEntry type="module" module-name="limiting-spring-boot-starter" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:31.1-jre" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:failureaccess:1.0.1" level="project" />
@@ -210,6 +209,15 @@
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-configuration-processor:2.7.11" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba.csp:sentinel-core:1.8.0" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba.fastjson2:fastjson2:2.0.25" level="project" />
+    <orderEntry type="module" module-name="oss-spring-boot-starter" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-s3:1.12.506" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-kms:1.12.506" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-core:1.12.506" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.ion:ion-java:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.13.5" level="project" />
+    <orderEntry type="library" name="Maven: joda-time:joda-time:2.8.1" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:jmespath-java:1.12.506" level="project" />
+    <orderEntry type="library" name="Maven: cn.hutool:hutool-core:5.8.12" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.mysql:mysql-connector-j:8.0.32" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.postgresql:postgresql:42.3.8" level="project" />
     <orderEntry type="library" name="Maven: org.checkerframework:checker-qual:3.5.0" level="project" />

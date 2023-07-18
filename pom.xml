@@ -13,6 +13,8 @@
         <module>edo-workflow</module>
         <module>edo-encrypt</module>
         <module>limiting-spring-boot-starter</module>
+        <module>edo-module</module>
+        <module>oss-spring-boot-starter</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

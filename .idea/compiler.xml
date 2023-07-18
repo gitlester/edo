@@ -8,6 +8,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="limiting-spring-boot-starter" />
+        <module name="edo-module" />
+        <module name="oss-spring-boot-starter" />
         <module name="edo-encrypt" />
         <module name="edo-service" />
         <module name="edo-common" />
@@ -24,11 +26,13 @@
       <module name="edo-dao" target="17" />
       <module name="edo-encrypt" target="17" />
       <module name="edo-model" target="17" />
+      <module name="edo-module" target="17" />
       <module name="edo-pay" target="17" />
       <module name="edo-service" target="17" />
       <module name="edo-web" target="17" />
       <module name="edo-workflow" target="17" />
       <module name="limiting-spring-boot-starter" target="17" />
+      <module name="oss-spring-boot-starter" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -37,11 +41,13 @@
       <module name="edo-dao" options="-parameters" />
       <module name="edo-encrypt" options="-parameters" />
       <module name="edo-model" options="-parameters" />
+      <module name="edo-module" options="-parameters" />
       <module name="edo-pay" options="-parameters" />
       <module name="edo-service" options="-parameters" />
       <module name="edo-web" options="-parameters" />
       <module name="edo-workflow" options="-parameters" />
       <module name="limiting-spring-boot-starter" options="-parameters" />
+      <module name="oss-spring-boot-starter" options="-parameters" />
     </option>
   </component>
 </project>
