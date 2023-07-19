@@ -20,8 +20,3 @@ encrypt:
     des-key: 12345678 #DES加密秘钥
     # more...
 
-oss:
-  endpoint: oss-cn-beijing.aliyuncs.com
-  accessKey: LTAI5tNmNhbNQCCgnaSq6ynd
-  secretKey: 9e433hhMOBM6rFKnzrrFHzQRdSmYQR
-  bucketname: one-piece-prefer
