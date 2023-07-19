@@ -16,5 +16,6 @@
     <file url="file://$PROJECT_DIR$/edo-workflow/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/limiting-spring-boot-starter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/oss-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sms-spring-boot-starter/src/main/java" charset="UTF-8" />
   </component>
 </project>

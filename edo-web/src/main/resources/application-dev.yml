@@ -25,3 +25,9 @@ oss:
   accessKey:
   secretKey:
   bucketname:
+aliyun:
+  sms:
+    accessId:
+    accessKeySecret:
+    endpoint:
+    signName:
